@@ -12,7 +12,6 @@
 
 Senior full-stack and AI engineer with **3+ years of experience** building and deploying production web platforms and AI-powered features in **TypeScript** and **Python**. I work across the full product lifecycle — data modelling, GraphQL and REST APIs, Next.js interfaces, Linux servers and CI/CD — with a focus on applied AI: **RAG**, **LLM integrations** and **model fine-tuning**.
 
-- 📍 Based in **South Korea** (Busan / Seoul) · originally from Uzbekistan
 - 🌐 Languages: English · Korean
 - 💼 Open to **full-stack and AI engineer** roles
 
@@ -27,53 +26,28 @@ Senior full-stack and AI engineer with **3+ years of experience** building and d
 
 ## 🛠️ Tech stack
 
-**Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LoRA / QLoRA](https://img.shields.io/badge/LoRA_/_QLoRA-6B7280?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-1E3BCB?style=flat-square)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![llama.cpp](https://img.shields.io/badge/llama.cpp-2C3545?style=flat-square)
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Apollo](https://img.shields.io/badge/Apollo_Client-311C87?style=flat-square&logo=apollographql&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-
-**Data & DevOps**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<table>
+  <tr>
+    <td align="center" width="150"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,py&perline=8" alt="ts,js,py" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>AI / ML</b></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,opencv&perline=8" alt="pytorch,opencv" /><br/><sub>Hugging Face · LoRA / QLoRA · RAG · Qdrant · llama.cpp · NumPy · Pandas · LLM Agents · MCP</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,react,redux,materialui,tailwind,vite&perline=8" alt="nextjs,react,redux,materialui,tailwind,vite" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,fastapi,django&perline=8" alt="nodejs,nestjs,express,graphql,fastapi,django" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Data &amp; DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,redis,postgres,docker,nginx,githubactions,linux,git&perline=8" alt="mongodb,redis,postgres,docker,nginx,githubactions,linux,git" /></td>
+  </tr>
+</table>
 
 ## 📫 Contact
 
