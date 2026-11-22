@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Antony (Yahyo) — Senior Full-Stack & AI Engineer" width="100%" />
+  <img src="./assets/banner.svg" alt="Antony (Yahyo) — Full-Stack & AI Engineer" width="100%" />
 </p>
 
 <p align="center">
